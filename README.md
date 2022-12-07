@@ -1,2 +1,2 @@
 # Demo-repo
-demo for GitHup intro video
+demo for GitHup intro video.
